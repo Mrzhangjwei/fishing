@@ -1,0 +1,73 @@
+#footer {
+  background-color: #eeeeee;
+}
+
+h1.head {
+  color: #000099;
+}
+
+p.foot-btn {
+  text-align: right;
+}
+
+div.p-info {
+  text-align: center;
+  text-shadow: 1px 1px 1px #bbbbbb;
+  font-size: 14px;
+}
+
+ /* 钓鱼知识外框 */
+div.class {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* 钓鱼知识图标 */
+div.img-class {
+  text-align: center;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-lightred {
+  color: #ff3333;
+}
+
+.text-lightblue {
+  color: lightblue;
+}
+
+.text-lightgreen {
+  color: lightgreen;
+}
+
+div.class-head{
+  color: #333399;
+}
+
+div.class-body {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+div.content{
+    background-color: #eeeeee;
+}
+
+div.jumbotron {
+  background-image: url(../images/h52.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
