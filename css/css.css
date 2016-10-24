@@ -78,12 +78,12 @@ div.return {
   border-radius: 25px;
   background: lightblue;
   position: fixed;
-  bottom: 100px;
-  right: 100px;
+  bottom: 4%;
+  right: 4%;
 }
 
 div.return i {
   position: fixed;
-  right: 105px;
-  bottom: 105px;
+  right: 4.3%;
+  bottom: 4.5%;
 }
